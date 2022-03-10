@@ -1,0 +1,1043 @@
+{
+    "message": {
+        "Entities": [
+            {
+                "Id": 7,
+                "BeginOffset": 1,
+                "EndOffset": 15,
+                "Score": 0.637506365776062,
+                "Text": "Shaukat Khanum",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 8,
+                "BeginOffset": 16,
+                "EndOffset": 40,
+                "Score": 0.9767518043518066,
+                "Text": "Memorial Cancer Hospital",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ADDRESS",
+                "Traits": []
+            },
+            {
+                "Id": 9,
+                "BeginOffset": 43,
+                "EndOffset": 87,
+                "Score": 0.45185860991477966,
+                "Text": "Research Centre Johar Town, Lahore, Pakistan",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ADDRESS",
+                "Traits": []
+            },
+            {
+                "Id": 10,
+                "BeginOffset": 97,
+                "EndOffset": 111,
+                "Score": 0.8218055963516235,
+                "Text": "92-42-35905000",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "PHONE_OR_FAX",
+                "Traits": []
+            },
+            {
+                "Id": 11,
+                "BeginOffset": 131,
+                "EndOffset": 143,
+                "Score": 0.16706816852092743,
+                "Text": "042-35945198",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "PHONE_OR_FAX",
+                "Traits": []
+            },
+            {
+                "Id": 12,
+                "BeginOffset": 151,
+                "EndOffset": 169,
+                "Score": 0.9504116773605347,
+                "Text": "pathoff@skm.org.pk",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "EMAIL",
+                "Traits": []
+            },
+            {
+                "Id": 13,
+                "BeginOffset": 179,
+                "EndOffset": 200,
+                "Score": 0.9984380602836609,
+                "Text": "www.shaukatkhanum.org",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "URL",
+                "Traits": []
+            },
+            {
+                "Id": 14,
+                "BeginOffset": 204,
+                "EndOffset": 227,
+                "Score": 0.2113841474056244,
+                "Text": "Department of Pathology",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ADDRESS",
+                "Traits": []
+            },
+            {
+                "Id": 15,
+                "BeginOffset": 233,
+                "EndOffset": 244,
+                "Score": 0.9899256229400635,
+                "Text": "06-Feb-2022",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 16,
+                "BeginOffset": 299,
+                "EndOffset": 314,
+                "Score": 0.6834601163864136,
+                "Text": "001-80002409364",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "PHONE_OR_FAX",
+                "Traits": []
+            },
+            {
+                "Id": 17,
+                "BeginOffset": 335,
+                "EndOffset": 347,
+                "Score": 0.996831476688385,
+                "Text": "KHALID ZAFAR",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 18,
+                "BeginOffset": 380,
+                "EndOffset": 382,
+                "Score": 0.9995536208152771,
+                "Text": "44",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "AGE",
+                "Traits": []
+            },
+            {
+                "Id": 19,
+                "BeginOffset": 437,
+                "EndOffset": 442,
+                "Score": 0.18196913599967957,
+                "Text": "Cc152",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ID",
+                "Traits": []
+            },
+            {
+                "Id": 20,
+                "BeginOffset": 451,
+                "EndOffset": 463,
+                "Score": 0.5775752067565918,
+                "Text": "0321 4496240",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ID",
+                "Traits": []
+            },
+            {
+                "Id": 21,
+                "BeginOffset": 476,
+                "EndOffset": 487,
+                "Score": 0.977393388748169,
+                "Text": "06-FEB-2022",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 22,
+                "BeginOffset": 517,
+                "EndOffset": 528,
+                "Score": 0.9915680289268494,
+                "Text": "06-FEB-2022",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 23,
+                "BeginOffset": 549,
+                "EndOffset": 560,
+                "Score": 0.9831655025482178,
+                "Text": "06-FEB-2022",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 24,
+                "BeginOffset": 584,
+                "EndOffset": 598,
+                "Score": 0.9919831156730652,
+                "Text": "001RCH22046777",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ID",
+                "Traits": []
+            },
+            {
+                "Id": 25,
+                "BeginOffset": 599,
+                "EndOffset": 613,
+                "Score": 0.9987505674362183,
+                "Text": "001RCH21380604",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ID",
+                "Traits": []
+            },
+            {
+                "Id": 26,
+                "BeginOffset": 640,
+                "EndOffset": 646,
+                "Score": 0.9255284070968628,
+                "Text": "06-FEB",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 27,
+                "BeginOffset": 647,
+                "EndOffset": 663,
+                "Score": 0.8196776509284973,
+                "Text": "2022 10-SEP-2021",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "DATE",
+                "Traits": []
+            },
+            {
+                "Id": 40,
+                "BeginOffset": 682,
+                "EndOffset": 688,
+                "Score": 0.9687407612800598,
+                "Text": "SODIUM",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.6985194087028503,
+                        "RelationshipScore": 0.9725197553634644,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 41,
+                        "BeginOffset": 689,
+                        "EndOffset": 692,
+                        "Text": "136",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.6783866882324219,
+                        "RelationshipScore": 0.9999829530715942,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 42,
+                        "BeginOffset": 693,
+                        "EndOffset": 696,
+                        "Text": "145",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.8888803124427795,
+                        "RelationshipScore": 0.991289496421814,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 43,
+                        "BeginOffset": 697,
+                        "EndOffset": 703,
+                        "Text": "mmol/L",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 46,
+                "BeginOffset": 712,
+                "EndOffset": 721,
+                "Score": 0.9995399713516235,
+                "Text": "POTASSIUM",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.849826455116272,
+                        "RelationshipScore": 0.9559164047241211,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 47,
+                        "BeginOffset": 722,
+                        "EndOffset": 725,
+                        "Text": "3.5",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9171774983406067,
+                        "RelationshipScore": 0.9833599328994751,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 48,
+                        "BeginOffset": 726,
+                        "EndOffset": 729,
+                        "Text": "5.1",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.7929707765579224,
+                        "RelationshipScore": 0.8416961431503296,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 49,
+                        "BeginOffset": 730,
+                        "EndOffset": 736,
+                        "Text": "mmol/L",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 52,
+                "BeginOffset": 747,
+                "EndOffset": 755,
+                "Score": 0.9987397789955139,
+                "Text": "CHLORIDE",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9079949855804443,
+                        "RelationshipScore": 0.9878005981445312,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 53,
+                        "BeginOffset": 756,
+                        "EndOffset": 758,
+                        "Text": "98",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9817553758621216,
+                        "RelationshipScore": 0.9989935755729675,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 54,
+                        "BeginOffset": 759,
+                        "EndOffset": 762,
+                        "Text": "107",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.8025178909301758,
+                        "RelationshipScore": 0.9961941242218018,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 55,
+                        "BeginOffset": 763,
+                        "EndOffset": 769,
+                        "Text": "mmol/L",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 58,
+                "BeginOffset": 782,
+                "EndOffset": 793,
+                "Score": 0.9969251751899719,
+                "Text": "BICARBONATE",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8614649772644043,
+                        "RelationshipScore": 0.8827151656150818,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 59,
+                        "BeginOffset": 794,
+                        "EndOffset": 796,
+                        "Text": "22",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9882144927978516,
+                        "RelationshipScore": 0.9949888586997986,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 60,
+                        "BeginOffset": 797,
+                        "EndOffset": 799,
+                        "Text": "29",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.858415424823761,
+                        "RelationshipScore": 0.9859117865562439,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 61,
+                        "BeginOffset": 800,
+                        "EndOffset": 806,
+                        "Text": "mmol/L",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 64,
+                "BeginOffset": 817,
+                "EndOffset": 830,
+                "Score": 0.8232263326644897,
+                "Text": "UREA NITROGEN",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.5185646414756775,
+                        "RelationshipScore": 0.9994033575057983,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 65,
+                        "BeginOffset": 831,
+                        "EndOffset": 835,
+                        "Text": "6 20",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.8835381269454956,
+                        "RelationshipScore": 0.9987583160400391,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 66,
+                        "BeginOffset": 836,
+                        "EndOffset": 841,
+                        "Text": "mg/dL",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 69,
+                "BeginOffset": 854,
+                "EndOffset": 864,
+                "Score": 0.9996562004089355,
+                "Text": "CREATININE",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9486079216003418,
+                        "RelationshipScore": 0.9992321729660034,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 70,
+                        "BeginOffset": 865,
+                        "EndOffset": 869,
+                        "Text": "0.70",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9981468915939331,
+                        "RelationshipScore": 0.9969804883003235,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 71,
+                        "BeginOffset": 870,
+                        "EndOffset": 874,
+                        "Text": "1.20",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.9206967353820801,
+                        "RelationshipScore": 0.9990931749343872,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 72,
+                        "BeginOffset": 875,
+                        "EndOffset": 880,
+                        "Text": "mg/dL",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8947049975395203,
+                        "RelationshipScore": 0.9222241640090942,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 73,
+                        "BeginOffset": 881,
+                        "EndOffset": 885,
+                        "Text": "0.99",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 75,
+                "BeginOffset": 891,
+                "EndOffset": 895,
+                "Score": 0.9959511756896973,
+                "Text": "eGFR",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9590167999267578,
+                        "RelationshipScore": 0.9996963739395142,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 76,
+                        "BeginOffset": 896,
+                        "EndOffset": 898,
+                        "Text": "60",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 78,
+                "BeginOffset": 926,
+                "EndOffset": 933,
+                "Score": 0.99583899974823,
+                "Text": "CALCIUM",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.7094391584396362,
+                        "RelationshipScore": 0.7618654370307922,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 77,
+                        "BeginOffset": 899,
+                        "EndOffset": 925,
+                        "Text": "mL/min/1.73 81.78 95.11 m²",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9852225184440613,
+                        "RelationshipScore": 0.9999653100967407,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 79,
+                        "BeginOffset": 934,
+                        "EndOffset": 937,
+                        "Text": "8.6",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9368877410888672,
+                        "RelationshipScore": 0.9936193823814392,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 80,
+                        "BeginOffset": 938,
+                        "EndOffset": 940,
+                        "Text": "10",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.9489309787750244,
+                        "RelationshipScore": 0.8332585692405701,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 81,
+                        "BeginOffset": 941,
+                        "EndOffset": 946,
+                        "Text": "mg/dL",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 83,
+                "BeginOffset": 952,
+                "EndOffset": 959,
+                "Score": 0.9970787763595581,
+                "Text": "ALBUMIN",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8328914642333984,
+                        "RelationshipScore": 0.9976311922073364,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 84,
+                        "BeginOffset": 960,
+                        "EndOffset": 963,
+                        "Text": "3.5",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9840677976608276,
+                        "RelationshipScore": 0.9988805651664734,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 85,
+                        "BeginOffset": 964,
+                        "EndOffset": 967,
+                        "Text": "5.2",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.984369158744812,
+                        "RelationshipScore": 0.9868625402450562,
+                        "RelationshipType": "TEST_UNIT",
+                        "Id": 86,
+                        "BeginOffset": 968,
+                        "EndOffset": 972,
+                        "Text": "g/dL",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8584378957748413,
+                        "RelationshipScore": 0.7660526037216187,
+                        "RelationshipType": "TEST_VALUE",
+                        "Id": 87,
+                        "BeginOffset": 973,
+                        "EndOffset": 977,
+                        "Text": "4.52",
+                        "Category": "TEST_TREATMENT_PROCEDURE",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 88,
+                "BeginOffset": 985,
+                "EndOffset": 988,
+                "Score": 0.5321561694145203,
+                "Text": "Lab",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 28,
+                "BeginOffset": 1117,
+                "EndOffset": 1122,
+                "Score": 0.7520292401313782,
+                "Text": "Tariq",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 29,
+                "BeginOffset": 1210,
+                "EndOffset": 1219,
+                "Score": 0.9970325231552124,
+                "Text": "Asif Loya",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 30,
+                "BeginOffset": 1224,
+                "EndOffset": 1237,
+                "Score": 0.9987673759460449,
+                "Text": "Sajid Mushtaq",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 31,
+                "BeginOffset": 1242,
+                "EndOffset": 1264,
+                "Score": 0.9957644939422607,
+                "Text": "Mohammad Tariq Mahmood",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 32,
+                "BeginOffset": 1269,
+                "EndOffset": 1285,
+                "Score": 0.9991839528083801,
+                "Text": "Mudassar Hussain",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 33,
+                "BeginOffset": 1290,
+                "EndOffset": 1307,
+                "Score": 0.9991471767425537,
+                "Text": "Usman Hassan MBBS",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 89,
+                "BeginOffset": 1370,
+                "EndOffset": 1374,
+                "Score": 0.3347078263759613,
+                "Text": "FCPS",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 90,
+                "BeginOffset": 1376,
+                "EndOffset": 1390,
+                "Score": 0.3785078227519989,
+                "Text": "Histopathology",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 34,
+                "BeginOffset": 1392,
+                "EndOffset": 1425,
+                "Score": 0.3253554403781891,
+                "Text": "MBBS, FCPS, FRCPath Cytopathology",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ADDRESS",
+                "Traits": []
+            },
+            {
+                "Id": 91,
+                "BeginOffset": 1398,
+                "EndOffset": 1402,
+                "Score": 0.7816115617752075,
+                "Text": "FCPS",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 92,
+                "BeginOffset": 1404,
+                "EndOffset": 1425,
+                "Score": 0.8433798551559448,
+                "Text": "FRCPath Cytopathology",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 35,
+                "BeginOffset": 1428,
+                "EndOffset": 1448,
+                "Score": 0.5642842650413513,
+                "Text": "FIAC Hematopathology",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "ADDRESS",
+                "Traits": []
+            },
+            {
+                "Id": 93,
+                "BeginOffset": 1428,
+                "EndOffset": 1448,
+                "Score": 0.5824992656707764,
+                "Text": "FIAC Hematopathology",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 1,
+                "BeginOffset": 1433,
+                "EndOffset": 1448,
+                "Score": 0.4989776611328125,
+                "Text": "Hematopathology",
+                "Category": "MEDICAL_CONDITION",
+                "Type": "DX_NAME",
+                "Traits": [
+                    {
+                        "Name": "DIAGNOSIS",
+                        "Score": 0.6542584896087646
+                    }
+                ]
+            },
+            {
+                "Id": 36,
+                "BeginOffset": 1454,
+                "EndOffset": 1470,
+                "Score": 0.999448835849762,
+                "Text": "Asad Hayat Ahmad",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 37,
+                "BeginOffset": 1475,
+                "EndOffset": 1481,
+                "Score": 0.5628417730331421,
+                "Text": "Maryam",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 38,
+                "BeginOffset": 1493,
+                "EndOffset": 1510,
+                "Score": 0.9984390139579773,
+                "Text": "Umer Nisar Sheikh",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 39,
+                "BeginOffset": 1515,
+                "EndOffset": 1529,
+                "Score": 0.9996733665466309,
+                "Text": "Junaid Ibrahim",
+                "Category": "PROTECTED_HEALTH_INFORMATION",
+                "Type": "NAME",
+                "Traits": []
+            },
+            {
+                "Id": 94,
+                "BeginOffset": 1624,
+                "EndOffset": 1638,
+                "Score": 0.3531758785247803,
+                "Text": "Cytopathology)",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 95,
+                "BeginOffset": 1639,
+                "EndOffset": 1652,
+                "Score": 0.7775620222091675,
+                "Text": "Cytopathology",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            },
+            {
+                "Id": 96,
+                "BeginOffset": 1654,
+                "EndOffset": 1672,
+                "Score": 0.9038625955581665,
+                "Text": "Molecular Genetic)",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": []
+            }
+        ],
+        "UnmappedAttributes": [
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.7444853782653809,
+                    "Id": 44,
+                    "BeginOffset": 704,
+                    "EndOffset": 707,
+                    "Text": "140",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9644041061401367,
+                    "Id": 45,
+                    "BeginOffset": 708,
+                    "EndOffset": 711,
+                    "Text": "142",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9426697492599487,
+                    "Id": 50,
+                    "BeginOffset": 737,
+                    "EndOffset": 741,
+                    "Text": "4.14",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9897937774658203,
+                    "Id": 51,
+                    "BeginOffset": 742,
+                    "EndOffset": 746,
+                    "Text": "4.25",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9856643676757812,
+                    "Id": 56,
+                    "BeginOffset": 770,
+                    "EndOffset": 775,
+                    "Text": "102.3",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9994227886199951,
+                    "Id": 57,
+                    "BeginOffset": 776,
+                    "EndOffset": 781,
+                    "Text": "107.1",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9618141055107117,
+                    "Id": 62,
+                    "BeginOffset": 807,
+                    "EndOffset": 811,
+                    "Text": "23.7",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9986295700073242,
+                    "Id": 63,
+                    "BeginOffset": 812,
+                    "EndOffset": 816,
+                    "Text": "23.5",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.979220986366272,
+                    "Id": 67,
+                    "BeginOffset": 842,
+                    "EndOffset": 847,
+                    "Text": "16.82",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.999406099319458,
+                    "Id": 68,
+                    "BeginOffset": 848,
+                    "EndOffset": 853,
+                    "Text": "10.64",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9994508624076843,
+                    "Id": 74,
+                    "BeginOffset": 886,
+                    "EndOffset": 890,
+                    "Text": "0.87",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            },
+            {
+                "Type": "TEST_TREATMENT_PROCEDURE",
+                "Attribute": {
+                    "Type": "TEST_VALUE",
+                    "Score": 0.9924013614654541,
+                    "Id": 82,
+                    "BeginOffset": 947,
+                    "EndOffset": 951,
+                    "Text": "9.12",
+                    "Category": "TEST_TREATMENT_PROCEDURE",
+                    "Traits": []
+                }
+            }
+        ],
+        "ModelVersion": "1.1.0",
+        "ResponseMetadata": {
+            "RequestId": "bdc74fdc-7489-421e-b94a-a88d2cf568b7",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "x-amzn-requestid": "bdc74fdc-7489-421e-b94a-a88d2cf568b7",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "17288",
+                "date": "Tue, 08 Mar 2022 08:01:00 GMT"
+            },
+            "RetryAttempts": 0
+        }
+    }
+}
